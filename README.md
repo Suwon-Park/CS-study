@@ -9,7 +9,7 @@ CS-study
 공부 내용에 두서가 없어 정신 없을 수도 있지만 언젠가는 점들을 이어서 선으로 만들 수 있는 날이 오길 바라며 공부합니다!
 
 ## 운영체제
-### [📖 ](./contents/operating-system)
+### [📖 정리노트](./contents/operating-system)
 * 프로세스
 * 프로세스 스케줄링
 * CPU 스케줄링
