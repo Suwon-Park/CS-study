@@ -20,6 +20,7 @@ CS-study
 * 락
 
 ## 네트워크
+### [📖 정리노트](./contents/network)
 * OSI 7계층
 * TCP와 UDP
 * DNS
