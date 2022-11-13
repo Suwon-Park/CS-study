@@ -118,3 +118,18 @@ NAT (Network Address Translation)
 그리고 이때 사용하는 기술이 NAT이다 !!                                                             
 </div>
 </details>
+
+<details>
+<summary>5. port</summary>
+<div markdown="1">
+ 외부에 있는 불특정한 사람 접속해서 컴퓨터에 도달해야할 때 
+ port forwarding  
+ 
+ port   
+  0 ~ 1023 - Well-known port  
+  예약된 포트  
+  웹 서버는 기본적으로 80번에 연결되도록 되어있음  
+  리스닝
+  
+</div>
+</details>
