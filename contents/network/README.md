@@ -133,3 +133,11 @@ NAT (Network Address Translation)
   
 </div>
 </details>
+
+### Http와 Https 차이  
+Http (Hyper Text Transfer Protocol)  
+ : 서버/클라이언트 모델을 따라 데이터를 주고 받기 위한 프로토콜  
+ 
+Https ((Hyper Text Transfer Protocol Secure)  
+ : HTTP에 데이터 암호화가 추가된 프로토콜  
+ 
